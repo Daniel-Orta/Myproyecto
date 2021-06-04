@@ -245,6 +245,14 @@ main{
     line-height: 1.5rem;
     color: var(--warm-black);
 } 
+.currency-table--container{
+    width: 90%;
+    min-width: 230px;
+    max-width: 300px;
+    height: 250px;
+    margin: 0 auto;
+}
+
 .main-currency-table .currency-table--title2{
     margin-bottom: 15px;
     font-size: 1.8rem;
